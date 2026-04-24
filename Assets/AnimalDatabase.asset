@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d41b1bc9a5f6841c294fd9246c2bd27a, type: 3}
+  m_Name: AnimalDatabase
+  m_EditorClassIdentifier: Assembly-CSharp::AnimalDatabase
+  animals:
+  - animalKey: frog
+    image: {fileID: 21300000, guid: 337c80d1110284773a855c7b3e77238c, type: 3}
+    textKey: 0001
+  - animalKey: fish
+    image: {fileID: 21300000, guid: fa5d349f29df94cf99753bf806d110ac, type: 3}
+    textKey: 0002
+  - animalKey: bird
+    image: {fileID: 21300000, guid: 94ce32568c6f84315937dac3ca3647d7, type: 3}
+    textKey: 0003
+  - animalKey: ladybug
+    image: {fileID: 21300000, guid: bdcde63d680a04f1499ed2fcc9febb1b, type: 3}
+    textKey: 0004
+  - animalKey: snail
+    image: {fileID: 21300000, guid: 6ce89e19d4f2a4410b846187b231130b, type: 3}
+    textKey: 0005
+  - animalKey: spider
+    image: {fileID: 21300000, guid: 79f9d382b7acb406380047e925585d10, type: 3}
+    textKey: 0006
+  - animalKey: hopper
+    image: {fileID: 21300000, guid: 4a31dd356c0b243059865e78aa25e0b5, type: 3}
+    textKey: 0007
+  - animalKey: wasp
+    image: {fileID: 21300000, guid: 16def69e2a40f405386eb2ceeb8f36db, type: 3}
+    textKey: 0008

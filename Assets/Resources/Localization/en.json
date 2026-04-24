@@ -1,0 +1,29 @@
+{
+  "items": [
+    { "key": "start", "value": "Start" },
+    { "key": "language", "value": "English" },
+    { "key": "setting", "value": "Settings" },
+    { "key": "langSelect", "value": "Language Selection" },
+    { "key": "volume", "value": "Volume Control" },
+    { "key": "back", "value": "Back" },
+    { "key": "skip", "value": "Skip"},
+    { "key": "next", "value": "Next"},
+    { "key": "openText1", "value": "For generations, rice fields have supported our people and shaped our culture."},
+    { "key": "openText2", "value": "Yet many students have never experienced the hidden world within a real rice field."},
+    { "key": "openText3", "value": "Beneath the rice plants lies a thriving ecosystem."},
+    { "key": "openText4", "value": "Some support the farmers."},
+    { "key": "openText5", "value": "Some endanger the crops."},
+    { "key": "openText6", "value": "Others are essential to the ecosystem."},
+    { "key": "openText7", "value": "Your mission is to explore"},
+    { "key": "openText8", "value": "Observe. Understand. Identify."},
+    { "key": "close", "value": "Close"},
+    { "key": "0001", "value": "A smooth-skinned amphibian with long jumping legs and bulging eyes."},
+    { "key": "0002", "value": "An aquatic animal with fins, scales, and gills for breathing underwater."},
+    { "key": "0003", "value": "A feathered animal with wings, a beak, and the ability to fly."},
+    { "key": "0004", "value": "A small beetle with six legs and distinctive red wings with black spots."},
+    { "key": "0005", "value": "A slow-moving mollusk with a single muscular foot and a coiled shell on its back."},
+    { "key": "0006", "value": "An arachnid with eight legs and the ability to spin silk webs."},
+    { "key": "0007", "value": "An insect with six legs and enlarged hind legs specialized for jumping."},
+    { "key": "0008", "value": "An insect with two pairs of dull-colored wings and a narrow waist."}
+  ]
+}
